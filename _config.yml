@@ -22,7 +22,7 @@ title: Neverland Diaries
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about the good, the bad, and the ugly of Disney and other childhood magic makers.
 baseurl: "/diaries" # the subpath of your site, e.g. /blog
-url: "https://main.d2j7wu3l8njze7.amplifyapp.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://main.d2j7wu3l8njze7.amplifyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
